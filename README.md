@@ -1,18 +1,30 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# 📱 Social Media Registration Portal
 
-## Folder Structure
+A robust Social Media Registration Portal focused on maintaining a secure, scalable registration history database. Built with a primary emphasis on advanced Object-Oriented Design (OOD) and design pattern implementation.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ✨ Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+*   **Robust User Registration:** Securely handles user sign-ups and maintains a detailed historical audit trail of account lifecycle events.
+*   **Design Pattern Architecture:** Integrates multiple design patterns to handle application complexity, object creation, and operational behavior.
+*   **Scalable History Tracking:** Optimized data structure designed to track, log, and manage user state changes seamlessly.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠️ Architecture & Design Patterns
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This project heavily demonstrates enterprise-level software design principles:
+*   **Creational Patterns:** Encapsulates object creation processes (e.g., handling various user types or profile configurations).
+*   **Structural Patterns:** Manages class and object compositions to ensure a clean, flexible hierarchy.
+*   **Behavioural Patterns:** Directs communication and responsibility delegation between system objects during the registration workflow.
+
+---
+
+## 🛠️ Tech Stack
+
+*   **Language:** [e.g., Java / C++ / Python]
+*   **Concepts:** Object-Oriented Design (OOD), Design Patterns, Database Management
+*   **Tools:** Git, GitHub, [e.g., IntelliJ / VS Code]
+
